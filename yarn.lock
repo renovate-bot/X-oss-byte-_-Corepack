@@ -4289,13 +4289,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:^4.17.21":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: 3ac18e92108d68f88429fcddee609e42cf2b653583d9bac22308815a4cd6b185b89a0ad0d9b0c670c371d9d6b61571a98fee6b36e1db14e52766ca253ed9cba0
-  languageName: node
-  linkType: hard
-
 "loose-envify@npm:^1.4.0":
   version: 1.4.0
   resolution: "loose-envify@npm:1.4.0"
@@ -4566,14 +4559,13 @@ __metadata:
   linkType: hard
 
 "nock@npm:^13.0.4":
-  version: 13.3.1
-  resolution: "nock@npm:13.3.1"
+  version: 13.5.5
+  resolution: "nock@npm:13.5.5"
   dependencies:
     debug: "npm:^4.1.0"
     json-stringify-safe: "npm:^5.0.1"
-    lodash: "npm:^4.17.21"
     propagate: "npm:^2.0.0"
-  checksum: ff192100eb832d3c97f5b3317ad02331d0ea1f38b5c68ba93968ee48b481cf28a286a0b3e5a1e530f5c00ad66f7993a6fb2123e8d1cce1c28254e538ee5db9cf
+  checksum: 10635d07ef26643f2c32a1794820e86b18d446b44989c9f9ee306c16132160b61c2d48806b5db438e424e2005445e1bde6a7596de7a3f7da1ff80794629d9bae
   languageName: node
   linkType: hard
 
