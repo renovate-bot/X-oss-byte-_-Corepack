@@ -5538,9 +5538,9 @@ __metadata:
   linkType: hard
 
 "supports-color@npm:^9.0.0":
-  version: 9.3.1
-  resolution: "supports-color@npm:9.3.1"
-  checksum: 4c447d3affdf21990d1a82921d7851c7058fb92a1909068b74b88b98151e5397c0adfc76f4d716623dfec3cd0618159ade7d4013a95a0497e3bc38035e74380c
+  version: 9.4.0
+  resolution: "supports-color@npm:9.4.0"
+  checksum: 519086c0c2c1999000a5dee47334d9a5da91cafcba5c15b14d9f1ecb816189cb19e67f696d1808c9be6c01456af85ff5c34655da6a16dcf64c8b16de3a4d59cc
   languageName: node
   linkType: hard
 
