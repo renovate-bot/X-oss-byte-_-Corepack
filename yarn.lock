@@ -5828,9 +5828,9 @@ __metadata:
   linkType: hard
 
 "v8-compile-cache@npm:^2.3.0":
-  version: 2.3.0
-  resolution: "v8-compile-cache@npm:2.3.0"
-  checksum: 757e7df6b154817c5f8fca0e5a14408d9ee2aed32b1a5e287b0eb292e576a78741875c428ea2583538afacf20a55ff5b59f1be30388e0ceed0753ceec949ea74
+  version: 2.4.0
+  resolution: "v8-compile-cache@npm:2.4.0"
+  checksum: 13a1ac55b83f3d0bb8b8d35720f64306e7f54921ba4a47236c578ae077632748786a0078117f6599fd9b368d292bf1106050599f7034b417b582e2661d5f348c
   languageName: node
   linkType: hard
 
