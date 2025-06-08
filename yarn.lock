@@ -5607,8 +5607,8 @@ __metadata:
   linkType: hard
 
 "ts-node@npm:^10.0.0":
-  version: 10.9.1
-  resolution: "ts-node@npm:10.9.1"
+  version: 10.9.2
+  resolution: "ts-node@npm:10.9.2"
   dependencies:
     "@cspotcode/source-map-support": "npm:^0.8.0"
     "@tsconfig/node10": "npm:^1.0.7"
@@ -5640,7 +5640,7 @@ __metadata:
     ts-node-script: dist/bin-script.js
     ts-node-transpile-only: dist/bin-transpile.js
     ts-script: dist/bin-script-deprecated.js
-  checksum: c4caff4b9bb7a3a44adbb64a38786ce4203c2ebceb8b5373b504d0826cf047f9f23105767a3e130e2f4078629f592a8332cfd8ee1061b57b7d159de49c7d8f6f
+  checksum: b5279b78ec7defd15b9d05f3ae75e6a3a633283b72973b0cdbe5e9b63ed9b5dead968197931703c26a6127d66158ba7f773de7362dd0afdeee1d926b3aad6857
   languageName: node
   linkType: hard
 
