@@ -2182,7 +2182,7 @@ __metadata:
     debug: "npm:^4.1.1"
     esbuild: "npm:0.17.19"
     eslint: "npm:^8.0.0"
-    eslint-plugin-arca: "npm:^0.15.0"
+    eslint-plugin-arca: "npm:^0.17.0"
     jest: "npm:^29.0.0"
     nock: "npm:^13.0.4"
     proxy-agent: "npm:^6.2.2"
@@ -2595,10 +2595,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-arca@npm:^0.15.0":
-  version: 0.15.0
-  resolution: "eslint-plugin-arca@npm:0.15.0"
-  checksum: da468c164d0632c50ef78987f21a6edf158923231e26c4bd46dbb6bcc3dea5b567f1f52ef5a32f7f75693fc58e223c110c7bcb0b25e51f2e09daa7650337df1d
+"eslint-plugin-arca@npm:^0.17.0":
+  version: 0.17.0
+  resolution: "eslint-plugin-arca@npm:0.17.0"
+  peerDependencies:
+    eslint: ">=10.0.0"
+  checksum: 289db4fc779c97ef57dfd9470f59c0df96e2bd6fe088f18f62a634521a1dd35e19787b904f14ffcb34b19e73f954cd646b3256265694b9608235ef2234a51afe
   languageName: node
   linkType: hard
 
